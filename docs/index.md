@@ -39,7 +39,7 @@
   * 必要ないので
 
 ## 勉強している言語
-* C
+* Zig
 * F#
 * Kuin
 * Scheme(Guile)
