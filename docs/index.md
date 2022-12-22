@@ -16,16 +16,15 @@
 ### 中身
 * OS: Arch Linux
   * btw
-  * ZEN
+  * Zen Kernel
 * WM: i3
   * ほぼ設定弄ってない，そのうちやる
 * ﾀｰﾐﾅﾙ: [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
-  * futuristic
-  * リンクはGitHubだけどPacmanで入れた(以下同様)
-* DM: [lyx](https://github.com/vm-xeck/lyx)
-  * [ly](https://github.com/fairyglade/ly)も入ってる，lyxがバグったら使う
+  * futuristicが好き
+* DM: [ly](https://github.com/fairyglade/ly)
+  * 写経して勉強中......
 * エディタ: Vim
-  * 何もわからないので戦争とかに巻き込まないでくれ(？)
+  * なんか読んでた本にVimかEmacsか選べって書いてあったので
 
 ### ないもの
 * まともなスピーカ
@@ -34,9 +33,7 @@
 * バッテリ容量の半分以上
   * 持ち出さなければヨシ
 * ブラウザ
-  * 必要ないので
 * 日本語入力エンジン
-  * 必要ないので
 
 ## 勉強している言語
 * Zig
@@ -49,8 +46,6 @@
 * 昔(3京年前とか)は3DCGの人と名乗っていたがクソコラばかり作っていた
 * 今はUnityとかBlenderを触りつつ低レイヤに興味，頑張る　という感じ
 * Twitter: [xeck](https://twitter.com/vm_xeck)
-  * 初心者なので変なこと言ってたら**ボコボコに**指摘してください
+  * 初心者なので変なこと言ってたらボコボコに指摘してください
   * 垢消し常習犯なのですぐ消えるかもしれません...
 * xeck美少女化計画，進行中
-
-## 不必要なブランチ作成と頻繁なコミットによる違法草生やし芸について(嘘)
