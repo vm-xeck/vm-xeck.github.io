@@ -1,1 +1,7 @@
-article
+m22html
+new-article
+rebuild
+index
+articles/*
+templates/*
+*.db
