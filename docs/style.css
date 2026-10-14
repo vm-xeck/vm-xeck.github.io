@@ -1,9 +1,17 @@
+:root {
+    --brown: #2e2a2a;
+    --white: #d6d0d0;
+    --green: #4d7c77;
+    --grey: #585152;
+}
+
+
 html {
     font-family: "Noto Sans JP", sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #d6d0d0;
-    background-color: #2e2a2a;
+    color: var(--white);
+    background-color: var(--brown);
 }
 
 li {
@@ -12,6 +20,21 @@ li {
 
 ul li::marker {
     content: '-';
-    color: #4d7c77;
+    color: var(--green);
+    font-weight: bold;
+}
+
+
+.m2-link {
+    color: var(--green);
+    font-weight: bold;
+}
+
+.m2-link:visited {
+    color: var(--grey);
+}
+
+.m2-tag {
+    color: var(--green);
     font-weight: bold;
 }
