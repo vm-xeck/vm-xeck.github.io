@@ -3,6 +3,9 @@
     --white: #d6d0d0;
     --green: #4d7c77;
     --grey: #585152;
+
+    --red: #cf7489;
+    --orange: #c59979;
 }
 
 
@@ -37,4 +40,27 @@ ul li::marker {
 .m2-tag {
     color: var(--green);
     font-weight: bold;
+}
+
+
+.toppage-content {
+    border: solid 0.3em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+.toppage-content h2 {
+    margin-block-start: 0.6em;
+    margin-inline-start: 0.5em;
+}
+.toppage-content p {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+}
+
+.toppage-news {
+    border-color: var(--red);
+}
+.toppage-tags {
+    border-color: var(--orange);
 }
